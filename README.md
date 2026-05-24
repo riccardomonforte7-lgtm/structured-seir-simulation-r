@@ -4,6 +4,14 @@ This project implements a structured SEIR epidemic simulation model in R.
 
 The aim was to explore how social structure affects epidemic dynamics, moving beyond a simple random mixing assumption. In particular, the model includes households, regular contact networks, and random population-level mixing.
 
+## Contributors
+
+This project was completed collaboratively by:
+
+- Riccardo Monforte
+- Mansi Neb https://github.com/mansineb
+- Fakhruddin Hakim Hussain https://github.com/fakhruddin-12
+
 ## Overview
 
 The project is based on a stochastic SEIR model, where each individual can be in one of four states:
